@@ -1,6 +1,6 @@
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yourdictionary.com%2Farticles%2Fworld-music-styles&psig=AOvVaw3dvb8Oft2ya4yiSXK8RJsL&ust=1703002612531000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJCb5uqymYMDFQAAAAAdAAAAABAE)
 
-# **GENRES SUGGESTER**
+# **MUSIC GENRE SUGGESTER**
 
 ## FEATURES
 - USER FRIENDLY
