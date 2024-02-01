@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yourdictionary.com%2Farticles%2Fworld-music-styles&psig=AOvVaw3dvb8Oft2ya4yiSXK8RJsL&ust=1703002612531000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJCb5uqymYMDFQAAAAAdAAAAABAE)
+![](https://media.istockphoto.com/id/464819518/photo/music-genre-diagram-on-blackboard.jpg?s=612x612&w=0&k=20&c=tg9U1K6urRMsDqKirHVCe9zv4JKFMXvHxIOH4UPp8B0=)
 
 # **MUSIC GENRE SUGGESTER**
 
