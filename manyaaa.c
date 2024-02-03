@@ -34,5 +34,7 @@ void main() {
     } while (ch == 1);
 
     printf("Exiting\n\n");
+    printf("You are exiting the program");
+    printf("Thank You for using the MUSIC GENRE SUGGESTER");
 }
 
